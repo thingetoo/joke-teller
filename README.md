@@ -1,5 +1,5 @@
 # Joke Teller
-> Having a bad day? Let out robot friend cheer you up with a programming joke!
+> Having a bad day? Let our robot friend cheer you up with a programming joke!
 
 ## Table of contents
 - [Joke Teller](#joke-teller)
